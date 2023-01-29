@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55e1b2e6-370f-49e5-83b3-352e1b443fe8" name="Changes" comment="Подсчет символов в файле">
-      <change afterPath="$PROJECT_DIR$/src/Next.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text3.txt" afterDir="false" />
+    <list default="true" id="55e1b2e6-370f-49e5-83b3-352e1b443fe8" name="Changes" comment="Записать в первый файл содержимого второго файла, а потом дописать содержимое третьего файла">
+      <change afterPath="$PROJECT_DIR$/src/Crypto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeCrypto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Next">
+  <component name="RunManager" selected="Application.DeCrypto">
+    <configuration name="Crypto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Crypto" />
+      <module name="Task" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeCrypto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeCrypto" />
+      <module name="Task" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Task" />
@@ -59,6 +74,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeCrypto" />
+        <item itemvalue="Application.Crypto" />
         <item itemvalue="Application.Next" />
         <item itemvalue="Application.Main" />
       </list>
@@ -80,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674990023847</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Записать в первый файл содержимого второго файла, а потом дописать содержимое третьего файла">
+      <created>1674990970082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674990970082</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Подсчет символов в файле" />
-    <option name="LAST_COMMIT_MESSAGE" value="Подсчет символов в файле" />
+    <MESSAGE value="Записать в первый файл содержимого второго файла, а потом дописать содержимое третьего файла" />
+    <option name="LAST_COMMIT_MESSAGE" value="Записать в первый файл содержимого второго файла, а потом дописать содержимое третьего файла" />
   </component>
 </project>
